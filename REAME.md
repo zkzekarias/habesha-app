@@ -1,3 +1,3 @@
 # DEMO
 
-project descrition!
+project descritions!
